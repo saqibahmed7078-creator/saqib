@@ -188,7 +188,7 @@ export default function Hero() {
             <MenuIcon />
             Menu
           </button>
-          <span className="text-lg font-bold tracking-wide md:text-xl">S.N</span>
+          <span className="text-lg font-bold tracking-wide md:text-xl">S.A</span>
         </div>
 
         <motion.div
@@ -197,7 +197,7 @@ export default function Hero() {
         >
           <div ref={headingWrapRef}>
             <h1 className="text-4xl font-medium leading-tight text-neutral-400 sm:text-5xl md:text-6xl lg:text-7xl">
-              Sup, I&apos;m <span className="font-extrabold text-white">Saud Nasir</span>
+              Sup, I&apos;m <span className="font-extrabold text-white">Saqib Ahmed</span>
             </h1>
             <h1 className="text-4xl font-medium leading-tight text-neutral-400 sm:text-5xl md:text-6xl lg:text-7xl">
               I&apos;m{" "}
